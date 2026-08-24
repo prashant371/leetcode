@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/prashant371/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/prashant371/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/prashant371/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/prashant371/leetcode/tree/master/0326-power-of-three) |
 | [1872-stone-game-viii](https://github.com/prashant371/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/prashant371/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant371/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/prashant371/leetcode/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/prashant371/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
