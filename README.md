@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prashant371/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/prashant371/leetcode/tree/master/0258-add-digits) |
 | [2390-removing-stars-from-a-string](https://github.com/prashant371/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prashant371/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/prashant371/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/prashant371/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/prashant371/leetcode/tree/master/0258-add-digits) |
 | [1872-stone-game-viii](https://github.com/prashant371/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/prashant371/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant371/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/prashant371/leetcode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prashant371/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
