@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prashant371/leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/prashant371/leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/prashant371/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashant371/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant371/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prashant371/leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/prashant371/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/prashant371/leetcode/tree/master/0191-number-of-1-bits) |
 ## Matrix
@@ -114,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prashant371/leetcode/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/prashant371/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prashant371/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prashant371/leetcode/tree/master/0067-add-binary) |
 | [1872-stone-game-viii](https://github.com/prashant371/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/prashant371/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant371/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
