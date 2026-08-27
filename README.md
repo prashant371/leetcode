@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/prashant371/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/prashant371/leetcode/tree/master/0567-permutation-in-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prashant371/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prashant371/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prashant371/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/prashant371/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant371/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prashant371/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Queue
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant371/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prashant371/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/prashant371/leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prashant371/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prashant371/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/prashant371/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1927-sum-game](https://github.com/prashant371/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant371/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prashant371/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
