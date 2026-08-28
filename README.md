@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prashant371/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/prashant371/leetcode/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/prashant371/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/prashant371/leetcode/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prashant371/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/prashant371/leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/prashant371/leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/prashant371/leetcode/tree/master/0344-reverse-string) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prashant371/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/prashant371/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/prashant371/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/prashant371/leetcode/tree/master/0118-pascals-triangle) |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prashant371/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/prashant371/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
