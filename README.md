@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/prashant371/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/prashant371/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prashant371/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/prashant371/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prashant371/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prashant371/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashant371/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/prashant371/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/prashant371/leetcode/tree/master/0258-add-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/prashant371/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2390-removing-stars-from-a-string](https://github.com/prashant371/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prashant371/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
