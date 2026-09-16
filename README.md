@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prashant371/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/prashant371/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/prashant371/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/prashant371/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1872-stone-game-viii](https://github.com/prashant371/leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prashant371/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prashant371/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prashant371/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/prashant371/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/prashant371/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/prashant371/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/prashant371/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prashant371/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prashant371/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant371/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/prashant371/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/prashant371/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prashant371/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
