@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prashant371/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prashant371/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prashant371/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prashant371/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/prashant371/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prashant371/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/prashant371/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant371/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prashant371/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prashant371/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prashant371/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prashant371/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/prashant371/leetcode/tree/master/3870-count-commas-in-range) |
