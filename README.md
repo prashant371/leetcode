@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/prashant371/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/prashant371/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1872-stone-game-viii](https://github.com/prashant371/leetcode/tree/master/1872-stone-game-viii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prashant371/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/prashant371/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/prashant371/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prashant371/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prashant371/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1872-stone-game-viii](https://github.com/prashant371/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/prashant371/leetcode/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prashant371/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/prashant371/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/prashant371/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/prashant371/leetcode/tree/master/2235-add-two-integers) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prashant371/leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prashant371/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/prashant371/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Brainteaser
 |  |
@@ -313,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prashant371/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prashant371/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prashant371/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
