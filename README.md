@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prashant371/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1872-stone-game-viii](https://github.com/prashant371/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/prashant371/leetcode/tree/master/1927-sum-game) |
+| [2235-add-two-integers](https://github.com/prashant371/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/prashant371/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/prashant371/leetcode/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/prashant371/leetcode/tree/master/2544-alternating-digit-sum) |
