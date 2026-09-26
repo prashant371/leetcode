@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/prashant371/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prashant371/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prashant371/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/prashant371/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prashant371/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/prashant371/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/prashant371/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1859-sorting-the-sentence](https://github.com/prashant371/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/prashant371/leetcode/tree/master/1927-sum-game) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/prashant371/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prashant371/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/prashant371/leetcode/tree/master/1952-three-divisors) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/prashant371/leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
