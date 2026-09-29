@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/prashant371/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant371/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/prashant371/leetcode/tree/master/0392-is-subsequence) |
+| [0504-base-7](https://github.com/prashant371/leetcode/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prashant371/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/prashant371/leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/prashant371/leetcode/tree/master/0709-to-lower-case) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/prashant371/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/prashant371/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/prashant371/leetcode/tree/master/0326-power-of-three) |
+| [0504-base-7](https://github.com/prashant371/leetcode/tree/master/0504-base-7) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prashant371/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prashant371/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prashant371/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
