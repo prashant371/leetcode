@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prashant371/leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/prashant371/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/prashant371/leetcode/tree/master/0191-number-of-1-bits) |
+| [0779-k-th-symbol-in-grammar](https://github.com/prashant371/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1486-xor-operation-in-an-array](https://github.com/prashant371/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/prashant371/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/prashant371/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/prashant371/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/prashant371/leetcode/tree/master/0326-power-of-three) |
+| [0779-k-th-symbol-in-grammar](https://github.com/prashant371/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prashant371/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prashant371/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/prashant371/leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/prashant371/leetcode/tree/master/0326-power-of-three) |
+| [0779-k-th-symbol-in-grammar](https://github.com/prashant371/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
 | ------- |
