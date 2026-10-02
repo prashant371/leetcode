@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prashant371/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/prashant371/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/prashant371/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/prashant371/leetcode/tree/master/0496-next-greater-element-i) |
 | [0905-sort-array-by-parity](https://github.com/prashant371/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prashant371/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prashant371/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prashant371/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prashant371/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant371/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/prashant371/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/prashant371/leetcode/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prashant371/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/prashant371/leetcode/tree/master/1436-destination-city) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prashant371/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/prashant371/leetcode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashant371/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashant371/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/prashant371/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prashant371/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/prashant371/leetcode/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashant371/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Heap (Priority Queue)
 |  |
