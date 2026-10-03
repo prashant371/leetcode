@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/prashant371/leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/prashant371/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/prashant371/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/prashant371/leetcode/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/prashant371/leetcode/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/prashant371/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashant371/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prashant371/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prashant371/leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/prashant371/leetcode/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/prashant371/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prashant371/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashant371/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
