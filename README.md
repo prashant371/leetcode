@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/prashant371/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/prashant371/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prashant371/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0645-set-mismatch](https://github.com/prashant371/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/prashant371/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prashant371/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prashant371/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/prashant371/leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/prashant371/leetcode/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/prashant371/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/prashant371/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prashant371/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prashant371/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/prashant371/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/prashant371/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/prashant371/leetcode/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/prashant371/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prashant371/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/prashant371/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/prashant371/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prashant371/leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/prashant371/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/prashant371/leetcode/tree/master/0191-number-of-1-bits) |
+| [0645-set-mismatch](https://github.com/prashant371/leetcode/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prashant371/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1486-xor-operation-in-an-array](https://github.com/prashant371/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/prashant371/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
