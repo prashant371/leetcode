@@ -3,27 +3,19 @@ class Solution {
 
         int ans[] = new int[2];
 
-        Arrays.sort(nums);
+        HashMap<Integer,Integer> map = new HashMap<>();
 
-        for(int i=0;i<nums.length-1;i++) {
-            if(nums[i]==nums[i+1]) {
-                ans[0]=nums[i];
-            }
+        for(int i=0;i<nums.length;i++) {
+            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
         }
 
         for(int i=1;i<=nums.length;i++) {
-            boolean found=false;
-
-            for(int j=0;j<nums.length;j++) {
-                if(nums[j]==i) {
-                    found=true;
-                    break;
-                }
+            if(map.getOrDefault(i, 0) == 2) {
+                ans[0] = i;
             }
 
-            if(!found) {
-                ans[1]=i;
-                break;
+            if(map.getOrDefault(i, 0) == 0) {
+                ans[1] = i;
             }
         }
 
