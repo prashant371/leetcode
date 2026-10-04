@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/prashant371/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prashant371/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/prashant371/leetcode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/prashant371/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/prashant371/leetcode/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/prashant371/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashant371/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/prashant371/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/prashant371/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/prashant371/leetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/prashant371/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/prashant371/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/prashant371/leetcode/tree/master/1872-stone-game-viii) |
 ## Stack
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/prashant371/leetcode/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/prashant371/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prashant371/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/prashant371/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashant371/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashant371/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/prashant371/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/prashant371/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/prashant371/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/prashant371/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prashant371/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant371/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -370,4 +374,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prashant371/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/prashant371/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
