@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/prashant371/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/prashant371/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prashant371/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/prashant371/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prashant371/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/prashant371/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prashant371/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prashant371/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/prashant371/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/prashant371/leetcode/tree/master/1872-stone-game-viii) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/prashant371/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
